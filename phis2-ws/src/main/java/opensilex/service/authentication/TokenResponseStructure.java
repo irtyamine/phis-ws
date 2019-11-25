@@ -45,4 +45,9 @@ public class TokenResponseStructure {
             this.expires_in = expires_in;
         }
     }
+
+    public String getAccess_token() {
+        return access_token;
+    }
+    
 }
