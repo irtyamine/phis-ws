@@ -1,6 +1,11 @@
 name: Java CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - continuous_integration
+    tags:
+      - v1
 
 jobs:
   build:
