@@ -6,6 +6,7 @@
 // Contact: morgane.vidal@inra.fr,arnaud.charleroy@inra.fr, anne.tireau@inra.fr, 
 //          pascal.neveu@inra.fr
 //******************************************************************************
+//comment 20200208
 package opensilex.service.resource;
 
 import io.swagger.annotations.Api;
